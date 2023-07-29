@@ -1,0 +1,15 @@
+.output{
+    color: rgb(17, 15, 15);
+    background-color: rgb(251, 252, 252);
+    border-radius: 10px ;
+    margin-top: 3px;
+    width: 20%;
+    margin-left: 530px;
+    box-shadow: 2px 2px rgb(209, 141, 141);
+}
+body{
+    background-color: black;
+}
+.heading{
+    color: beige;
+}
